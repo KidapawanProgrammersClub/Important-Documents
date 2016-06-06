@@ -8,3 +8,7 @@
       - (sometimes) mathematics
       - Anything related to computing (e.g. networking, security)
 3. Mag solve ug programming problems together and individually (kung pwede mag-solve pud ug math problems because solving math problems helps in solving many programming problems)
+
+
+#How to become a member: 
+- Invited or recommended by a club member and passes test  
