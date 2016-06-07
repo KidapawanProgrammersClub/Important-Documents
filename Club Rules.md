@@ -47,7 +47,8 @@
 
 ## # the clean code rule.
 19\. Let's learn how to write clean code and let's do our best to write clean code. (I suggest never to remove this rule because this is the primary reason why this club was made) 
- - Writing “clean code” means being professional when writing code – dili dapat “basta ga-gana lang ok na na”. We need to consider other things such as “is it easy to read?”, “is it easy to maintain”, "is it secure", things like that. Of course we might never know everything about writing clean code… i-try lang nato .   
+ - Writing “clean code” means being professional when writing code – dili dapat “basta ga-gana lang ok na na”. We need to consider other things such as “is it easy to read?”, “is it easy to maintain”, "is it secure", things like that. Of course we might never know everything about writing clean code… i-try lang nato.
+ - "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
 
 ## # the team rule
 20\. Only God knows everything. Each of us know some things. We as a group knows many things. 
