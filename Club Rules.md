@@ -21,7 +21,7 @@
 8. If a club member makes a mistake, politely and constructively correct him/her. 
 9. Accept polite and constructive correction/criticism. 
 10. Politely correct impolite correction/criticism. 
-11. Do everything to prevent divisiveness. No gossiping about how stupid your colleague is. Help him/her instead. (And also no gossiping about other people  -- kay basig tawagon ta nila sa sunod nga “gossip club”) 
+11. Do everything to prevent divisiveness. No gossiping about how stupid your colleague is. Help him/her instead. (And also no gossiping about other people :) -- kay basig tawagon ta nila sa sunod nga “gossip club”) 
 12. No heated emotional debates; just peaceful logical discussions. No ad hominems please. 
 13. Remember that your colleague did not “buut-ho “here by chance. We choose him/her to be part of this group. (We can also use this to answer the question "Why would I follow the rules listed here?") 
 14. Let’s show appreciation to our colleague if he/she accomplishes something significant or contributes something significant to the club. Saying “thank you” can be considered as an expression of appreciation.
@@ -31,7 +31,7 @@
 16. ...if you do not follow the rules listed here and become burdensome to the club, it is possible for you to be kicked out of the club.
 
 ## # the "modify the rules when needed" rule.
-17. We do not know all the goods and evils in the world. We are not like God who can see the future. We fail to remember the past; we make mistakes. And the needs of the future might be different from the needs of the present. Modify the other rules as needed (including the English  ). The entire group decides. 
+17. We do not know all the goods and evils in the world. We are not like God who can see the future. We fail to remember the past; we make mistakes. And the needs of the future might be different from the needs of the present. Modify the other rules as needed (including the English :) ). The entire group decides. 
 
 ## # the schooling first rule
 18. Don't let the club hinder your goals at school. Do your important school homework first before doing the club's homework. 
