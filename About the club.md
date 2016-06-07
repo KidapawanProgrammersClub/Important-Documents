@@ -11,4 +11,5 @@
 
 
 #How to become a member: 
-- Invited or recommended by a club member and passes test  
+- Invited or recommended by a club member and passes test.
+      - The test given today might be different from the test given to future prospects – we are expecting that computer science education will improve in the future so future tests might be more difficult than the tests given today. The club members will decide what kinds of tests to give – depende sa situation or needs sa club in the future.
