@@ -5,7 +5,7 @@
       - Programming
       - Software development
       - Software practices
-      - (sometimes) mathematics
+      - (sometimes) mathematics (kung naa lay extra time)
       - Anything related to computing (e.g. networking, security)
 3. Mag solve ug programming problems together and individually (kung pwede mag-solve pud ug math problems because solving math problems helps in solving many programming problems)
 
