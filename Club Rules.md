@@ -1,4 +1,4 @@
-#rules/values of the club (by May 10, 2016)
+#rules/values of the programming club (as of June 29, 2016)
 
 ## # the teach rule
 1\. Teach what you know. Share your "not very important" knowledge. Do your best to help your colleagues understand what you teach. Help each other understand the topic being discussed. 
@@ -20,37 +20,35 @@
 7\. Don't take your colleague's time away from him. If you have already taken so much of the group's time and your colleague has not yet taken any of the group's time, then it's "time out for you" time. 
 
 ## # the honor rule
-8\. If a club member makes a mistake, politely and constructively correct him/her. 
-
+8\. If a club member makes a mistake, politely and constructively correct him/her.
+ 
 9\. Accept polite and constructive correction/criticism. 
 
 10\. Politely correct impolite correction/criticism. 
 
 11\. Do everything to prevent divisiveness. No gossiping about how stupid your colleague is. Help him/her instead. (And also no gossiping about other people :) -- kay basig tawagon ta nila sa sunod nga “gossip club”) 
 
-12\. No heated emotional debates; just peaceful logical discussions. No ad hominems please. 
+12\. No heated emotional debates; just peaceful logical discussions. No ad hominems please. Remember that your colleague did not but-ho here by chance. We choose him/her to be part of this group. (We can also use this to answer the question "Why would I follow the rules listed here?") 
 
-13\. Remember that your colleague did not “buut-ho “here by chance. We choose him/her to be part of this group. (We can also use this to answer the question "Why would I follow the rules listed here?") 
+13\. Avoid comparing yourself with others. Instead, compare yourself with your previous self.
 
-14\. Let’s show appreciation to our colleague if he/she accomplishes something significant or contributes something significant to the club. Saying “thank you” can be considered as an expression of appreciation.
+ - “If someone is doing better than you, it only means that he started work on himself earlier than you did” (and vice versa) – David Schwartz?  --- so start working today.
 
 ## # the "we are not robots" rule
-15\. We might make some mistakes. But let's not give so much focus on the rules listed here. (We should not spend our time waiting for our colleague to break one of the rules so we can have a reason to kick him out.) Let's focus on productive sharing of knowledge. But... 
+14\. We might make some mistakes. But let's not give so much focus on the rules listed here. (We should not spend our time waiting for our colleague to break one of the rules so we can have a reason to kick him out.) Let's focus on productive sharing of knowledge. But... 
 
-16\. ...if you do not follow the rules listed here and become burdensome to the club, it is possible for you to be kicked out of the club.
+15\. ...if you do not follow the rules listed here and become burdensome to the club, it is possible for you to be kicked out of the club.
 
 ## # the "modify the rules when needed" rule.
-17\. We do not know all the goods and evils in the world. We are not like God who can see the future. We fail to remember the past; we make mistakes. And the needs of the future might be different from the needs of the present. Modify the other rules as needed (including the English :) ). The entire group decides. 
+16\. We do not know all the goods and evils in the world. We are not like God who can see the future. We fail to remember the past; we make mistakes. And the needs of the future might be different from the needs of the present. Modify the other rules as needed (including the English :) ). The entire group decides. 
 
 ## # the schooling first rule
-18\. Don't let the club hinder your goals at school. Do your important school homework first before doing the club's homework. 
+17\. Don't let the club hinder your goals at school. Do your important school homework first before doing the club's homework. 
 
-## # the clean code rule.
-19\. Let's learn how to write clean code and let's do our best to write clean code. (I suggest never to remove this rule because this is the primary reason why this club was made) 
+## # the “write clean code” rule.
+
+18\. Let's learn how to write clean code and let's do our best to put into practice what we have learned. (I suggest never to remove this rule because this is the primary reason why this club was made) 
+
  - Writing “clean code” means being professional when writing code – dili dapat “basta ga-gana lang ok na na”. We need to consider other things such as “is it easy to read?”, “is it easy to maintain”, "is it secure", things like that. Of course we might never know everything about writing clean code… i-try lang nato.
+	 
  - "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
-
-## # the team rule
-20\. Only God knows everything. Each of us know some things. We as a group knows many things. 
-
-21\. We fail as a group; we succeed as a group. No one fails on his own; no one succeeds on his own. 
