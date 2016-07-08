@@ -13,6 +13,16 @@
 
 5\. Ask your question even if you "know" that no one in the group is able to answer your question. (Someone might know someone not in the group who can answer your question) 
 
+ - “Albert grunted. "Do you know what happens to lads who ask too many questions?"<br/>
+   Mort thought for a moment.<br/>
+   "No," he said eventually, "what?"<br/>
+   There was silence.<br/>
+   Then Albert straightened up and said, "Damned if I know. <br/>
+   Probably they get answers, and serve 'em right.” <br/>
+   ― Terry Pratchett, Mort (from Goodreads.com's [Quotes About Questions](http://www.goodreads.com/quotes/tag/questions)
+    
+ - If you do not ask your question you might never know the answer (and you might never know the next question to ask). 
+
 ## # the answer rule
 6\. Answer your colleague's question. "I don't know" is also an answer. 
 
