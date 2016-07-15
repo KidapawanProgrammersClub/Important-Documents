@@ -63,4 +63,4 @@
 	 
  - "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
 
- - Please watch the video presentation [Clean Code: A Reader-Centered Approach](https://vimeo.com/157710445).
+ - Please watch the video presentation [Clean Code: A Reader-Centered Approach](https://vimeo.com/157710445). The slides for the presentation can be downloaded [here](http://www.matthewrenze.com/presentations/clean-code.pdf).
